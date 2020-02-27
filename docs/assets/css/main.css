@@ -66,6 +66,11 @@ figure {
     max-width: 100%;
     height: auto; }
 
+.about p, .tutoring p {
+  font-style: normal;
+  text-align: justify;
+}
+
 .inp-b {
   margin: 0 0 20px; }
   .inp-b .inp-b-inner {
