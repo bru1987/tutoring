@@ -7,18 +7,18 @@ body {
 
 h1 {
   margin: 0 0 10px;
-  font: 6em/1 Noto Sans, sans-serif; /*Comfortaa, cursive;*/
+  font: 6em/1 Comfortaa, cursive;
   letter-spacing: 5px; }
 
 h2 {
   margin: 0 0 30px;
-  font: 3em/1.4 Noto Sans, sans-serif; /*Comfortaa, cursive;*/
+  font: 3em/1.4 Comfortaa, cursive;
   text-transform: uppercase;
   letter-spacing: 10px; }
 
 h3 {
   margin: 0 0 30px;
-  font: bold 1.3em Noto Sans, sans-serif; /*Comfortaa, cursive;*/
+  font: bold 1.3em Comfortaa, cursive;
   text-transform: uppercase;
   letter-spacing: 5px; }
 
