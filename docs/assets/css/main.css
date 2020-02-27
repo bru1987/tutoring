@@ -1,24 +1,24 @@
 body {
   position: relative;
   background: #fff;
-  font: 87.5%/1 Noto Sans, sans-serif;
+  font: 87.5%/1 Mont, sans-serif;
   color: #333;
   -webkit-tap-highlight-color: transparent; }
 
 h1 {
   margin: 0 0 10px;
-  font: 6em/1 Comfortaa, cursive;
+  font: 6em/1 Montserrat;
   letter-spacing: 5px; }
 
 h2 {
   margin: 0 0 30px;
-  font: 3em/1.4 Comfortaa, cursive;
+  font: 3em/1.4 Montserrat;
   text-transform: uppercase;
   letter-spacing: 10px; }
 
 h3 {
   margin: 0 0 30px;
-  font: bold 1.3em Comfortaa, cursive;
+  font: bold 1.3em Montserrat;
   text-transform: uppercase;
   letter-spacing: 5px; }
 
