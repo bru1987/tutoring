@@ -1,4 +1,5 @@
 body {
+  font-family: 'Roboto';
   position: relative;
   background: #fff;
   font: 87.5%/1 Roboto, sans-serif;
@@ -6,17 +7,20 @@ body {
   -webkit-tap-highlight-color: transparent; }
 
 h1 {
+  font-family: 'Montserrat';
   margin: 0 0 10px;
   font: 6em/1 Montserrat;
   letter-spacing: 5px; }
 
 h2 {
+  font-family: 'Montserrat';
   margin: 0 0 30px;
   font: 3em/1.4 Montserrat;
   text-transform: uppercase;
   letter-spacing: 10px; }
 
 h3 {
+  font-family: 'Montserrat';
   margin: 0 0 30px;
   font: bold 1.3em Montserrat;
   text-transform: uppercase;
